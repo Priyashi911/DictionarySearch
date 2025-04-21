@@ -39,17 +39,17 @@ g++ main.cpp -o dictsearch
 
 Make sure `list.txt` is in the `data/` folder and accessible by relative path (`../data/list.txt`).
 
-## 🔍 Example
+## Example
 ```
 Enter a word: abandon
-✅ Word found in dictionary.
+Word found in dictionary.
 
 Enter a word: abandonn
-❌ Word not found.
-🔎 Suggestions:
+Word not found.
+Suggestions:
   - abandon
   - abandoned
-✨ Did you mean: abandon?
+Did you mean: abandon?
 ```
 
 ## 📊 Time and Space Complexity
