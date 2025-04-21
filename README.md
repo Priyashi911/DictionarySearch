@@ -63,11 +63,6 @@ Enter a word: abandonn
 - N = number of words in the file
 - L = average length of the words
 
-## ✅ Highlights
-- Beginner-friendly C++ code
-- Excellent for interviews and assignments
-- Clean output with user interaction
-
 ---
 
 > Submitted by: Priyashi Barnwal  
